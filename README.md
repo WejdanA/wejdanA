@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Wejdan</h1>
 <h3 align="left">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on [https://github.com/WejdanA/e-commerce-.git]
+- 🔭 I’m currently working on https://github.com/WejdanA/e-commerce-.git
 
 - 👨‍💻 All of my projects are available at [https://github.com/WejdanA](https://github.com/WejdanA)
 
